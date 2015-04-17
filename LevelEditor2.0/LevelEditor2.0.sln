@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelEditor2.0", "LevelEditor2.0\LevelEditor2.0\LevelEditor2.0.csproj", "{507B258A-22DB-4947-8B5E-21397C5BA5CA}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "LevelEditor2.0Content", "LevelEditor2.0\LevelEditor2.0Content\LevelEditor2.0Content.contentproj", "{C5D150DF-B35F-4CDF-808E-AA1146F2C283}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{507B258A-22DB-4947-8B5E-21397C5BA5CA}.Debug|x86.ActiveCfg = Debug|x86
+		{507B258A-22DB-4947-8B5E-21397C5BA5CA}.Debug|x86.Build.0 = Debug|x86
+		{507B258A-22DB-4947-8B5E-21397C5BA5CA}.Release|x86.ActiveCfg = Release|x86
+		{507B258A-22DB-4947-8B5E-21397C5BA5CA}.Release|x86.Build.0 = Release|x86
+		{C5D150DF-B35F-4CDF-808E-AA1146F2C283}.Debug|x86.ActiveCfg = Debug|x86
+		{C5D150DF-B35F-4CDF-808E-AA1146F2C283}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
